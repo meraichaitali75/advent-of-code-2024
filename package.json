@@ -1,0 +1,27 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "This repository contains my solution for the **Day 2: Red-Nosed Reports** challenge from Advent of code 2024.",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node day2_solution.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meraichaitali75/advent-of-code-2024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/meraichaitali75/advent-of-code-2024/issues"
+  },
+  "homepage": "https://github.com/meraichaitali75/advent-of-code-2024#readme",
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
